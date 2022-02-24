@@ -1,0 +1,2 @@
+char * crypt(char parola[], int chiave);
+char * decrypt(char parola[], int chiave);
